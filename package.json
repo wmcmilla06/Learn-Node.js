@@ -1,0 +1,22 @@
+{
+  "name": "learn-node",
+  "version": "5.6.7",
+  "description": "App for America",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmcmilla06/Learn-Node.js.git"
+  },
+  "author": "Cows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmcmilla06/Learn-Node.js/issues"
+  },
+  "homepage": "https://github.com/wmcmilla06/Learn-Node.js#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
